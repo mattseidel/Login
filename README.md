@@ -9,7 +9,7 @@ It's a simply login created with html, css and javascript. it's responsive.
 ![screenshot](./screenshot/1000px.PNG)
 
 ## 850px
-![screenshot](./screenshot/850.PNG)
+![screenshot](./screenshot/850px.PNG)
 
 # copyright
 images [https://undraw.co/](undraw)
